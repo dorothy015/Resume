@@ -5,8 +5,10 @@
 <p>
   
   <h2>이메일 주소</H2>
-      </h2> 네이버 : dorothy015@naver.com</h2
-      </h2>  학교 : 2020219024@semyung.ac.kr</h2>
+    
+      네이버 : dorothy015@naver.com
+      
+      학교 : 2020219024@semyung.ac.kr
       
   
 </p>
